@@ -1,7 +1,7 @@
 # TiFadingScrollableView
 Appcelerator ScrollableView extension for fading background images
 
-![Example](http://i.imgur.com/G4Tsx20.gifv)
+![Example](/example.gif)
 
 ## API
 
